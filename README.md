@@ -1,2 +1,3 @@
 # Insights-to-revenue-team-in-hospitality-domain
-The "Insights to Revenue Team in Hospitality Domain" project incorporates a Power BI dashboard to visualize and communicate key findings effectively
+The "Insights to Revenue Team in Hospitality Domain" project incorporates a Power BI dashboard to visualize and communicate key findings effectively. The Power BI dashboard provides an intuitive interface for the revenue team to interact with and explore data-driven insights. Key performance indicators (KPIs) such as occupancy rates, average daily rates, and revenue per available room are prominently displayed, Also filter by weekday/weekene,filter by category,room,week,city get clear idea of picture to revenue team by offering a quick overview of the business's financial health.
+
